@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-![Demo](CarCounter.gif)  # Add your GIF file path here
+![Model Working Gif](CarCounter.gif)  # Add your GIF file path here
